@@ -1,7 +1,9 @@
 ---
 title: HTML学习小简介
 date: 2018-02-07 13:59:07
-tags:
+categories: 前端
+tags: 
+    - HTML
 ---
 ## W3C是啥
 > W3C是指万维网联盟（World Wide Web Consortium，W3C），又称W3C理事会，是万维网的主要国际标准组织
