@@ -1,5 +1,5 @@
 ---
-title: 学习JavaScript数据结构与算法
+title: 学习JavaScript数据结构与算法-栈与队列
 date: 2018-03-11 23:29:58
 tags:
 - 算法
